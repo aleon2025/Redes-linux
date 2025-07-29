@@ -8,5 +8,5 @@ then
 	echo "Directorio $1 creado" 
         ls -la $PWD/$1
 else
-	echo "Forma de uso: $0 nombre_usuario_github"
+	echo "Forma de uso: $0 aleon2025"
 fi
